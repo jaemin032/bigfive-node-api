@@ -26,3 +26,5 @@ logger.log('info', `api running on port ${config.apiPort}`);
 
 // Export API server for testing
 module.exports = app;
+
+
